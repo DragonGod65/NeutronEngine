@@ -1,3 +1,0 @@
-plugins {
-    `neutron-base-module`
-}

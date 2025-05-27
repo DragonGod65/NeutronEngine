@@ -8,7 +8,7 @@ repositories {
 }
 
 kotlin {
-    explicitApi()
+    //explicitApi()
     compilerOptions {
         allWarningsAsErrors = true
     }
