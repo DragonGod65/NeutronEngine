@@ -3,4 +3,5 @@ plugins {
 }
 rootProject.name = "NeutronEngine"
 
-
+include("tools")
+include("tests")
