@@ -3,5 +3,9 @@ plugins {
 }
 rootProject.name = "NeutronEngine"
 
+// Libraries
+include("libraries:vulkan")
+
+include("modules:core:neutron-core")
 include("tools")
 include("tests")
